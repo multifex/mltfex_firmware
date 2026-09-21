@@ -8,36 +8,36 @@
   },
   "latest": {
     "umbra-4row": {
-      "fwVersion": 1,
+      "fwVersion": 2,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/umbra-4row.uf2",
-      "sha256": "d1af04353c07bd8d774a4e6285f2f7e79b3e274869969850c337332e1ab82fc6",
-      "notes": "First release with the version handshake (MLTFEX_CMD_GET_FW_VERSION).",
-      "date": "2026-09-08"
+      "sha256": "cbe027c1b4ea9423b393865f5e486acb8c4aaf7a23237895fb476ed9018e07d4",
+      "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
+      "date": "2026-09-21"
     },
     "umbra-3row": {
-      "fwVersion": 1,
+      "fwVersion": 2,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/umbra-3row.uf2",
-      "sha256": "5007221fe468a3337a3af2e2a7f940495ed183041d708674875563a6c561568a",
-      "notes": "First release with the version handshake (MLTFEX_CMD_GET_FW_VERSION).",
-      "date": "2026-09-08"
+      "sha256": "f91c32bbb92db862bc819d31b3ba295c596b76190a51d13873789e05b797f0cf",
+      "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
+      "date": "2026-09-21"
     },
     "penumbra-4row": {
-      "fwVersion": 1,
+      "fwVersion": 2,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/penumbra-4row.uf2",
-      "sha256": "7876467575f117d7e6221b5eb4fb9014e5516cabebb45ce0a4d01bf89416a83f",
-      "notes": "First release with the version handshake (MLTFEX_CMD_GET_FW_VERSION).",
-      "date": "2026-09-08"
+      "sha256": "dcdeeaa53a87951d4777db3c553e990c4f92b75b6e23819661225d71a0da9409",
+      "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
+      "date": "2026-09-21"
     },
     "penumbra-3row": {
-      "fwVersion": 1,
+      "fwVersion": 2,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/penumbra-3row.uf2",
-      "sha256": "8d115714a51eebb3e399a051297d12ec740f6f7884b09b0cd69d4f849a0fb2c2",
-      "notes": "First release with the version handshake (MLTFEX_CMD_GET_FW_VERSION).",
-      "date": "2026-09-08"
+      "sha256": "c6c42577fd4ca8aacaed1b94c08d36ccbda9598f7a86d32ffc12682b4d935e45",
+      "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
+      "date": "2026-09-21"
     }
   }
 }
