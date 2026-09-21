@@ -11,7 +11,7 @@
       "fwVersion": 2,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/umbra-4row.uf2",
-      "sha256": "cbe027c1b4ea9423b393865f5e486acb8c4aaf7a23237895fb476ed9018e07d4",
+      "sha256": "1cdd4075f984bf75b2ae64b42b735db7907577afe87fbb694acf0a6b60a4ff31",
       "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
       "date": "2026-09-21"
     },
@@ -19,7 +19,7 @@
       "fwVersion": 2,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/umbra-3row.uf2",
-      "sha256": "f91c32bbb92db862bc819d31b3ba295c596b76190a51d13873789e05b797f0cf",
+      "sha256": "8a5c705d3840558b91db504d789921fd234e57571c322d99f893d2a1003359b2",
       "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
       "date": "2026-09-21"
     },
@@ -27,7 +27,7 @@
       "fwVersion": 2,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/penumbra-4row.uf2",
-      "sha256": "dcdeeaa53a87951d4777db3c553e990c4f92b75b6e23819661225d71a0da9409",
+      "sha256": "16c0d80f61c147968bafb43d72e38522c0ee5ed0808a989901b7e12e5012a339",
       "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
       "date": "2026-09-21"
     },
@@ -35,7 +35,7 @@
       "fwVersion": 2,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/penumbra-3row.uf2",
-      "sha256": "c6c42577fd4ca8aacaed1b94c08d36ccbda9598f7a86d32ffc12682b4d935e45",
+      "sha256": "1bb3f8e8a97e404a344d827c549cbf86f3a3d14474dadbd3dcb5275105f63674",
       "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
       "date": "2026-09-21"
     }
