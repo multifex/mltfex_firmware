@@ -8,36 +8,36 @@
   },
   "latest": {
     "umbra-4row": {
-      "fwVersion": 2,
+      "fwVersion": 3,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/umbra-4row.uf2",
-      "sha256": "1cdd4075f984bf75b2ae64b42b735db7907577afe87fbb694acf0a6b60a4ff31",
-      "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
-      "date": "2026-09-21"
+      "sha256": "eb14a2dff3d3c92d720dcfcc32d762e1edeef33b453c13faf4e4a90aa0977c76",
+      "notes": "Fixes keys that could get stuck: switching into Gamepad mode while holding a key, changing a stick key while holding it, and turning XInput off mid-game. The stick no longer repeats a key when the deadzone is set high.",
+      "date": "2026-09-23"
     },
     "umbra-3row": {
-      "fwVersion": 2,
+      "fwVersion": 3,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/umbra-3row.uf2",
-      "sha256": "8a5c705d3840558b91db504d789921fd234e57571c322d99f893d2a1003359b2",
-      "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
-      "date": "2026-09-21"
+      "sha256": "b1e28f7784e8f733973d3ffab0a3e466fb14f68db088246cfaaf4d7640b69757",
+      "notes": "Fixes keys that could get stuck: switching into Gamepad mode while holding a key, changing a stick key while holding it, and turning XInput off mid-game. The stick no longer repeats a key when the deadzone is set high.",
+      "date": "2026-09-23"
     },
     "penumbra-4row": {
-      "fwVersion": 2,
+      "fwVersion": 3,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/penumbra-4row.uf2",
-      "sha256": "16c0d80f61c147968bafb43d72e38522c0ee5ed0808a989901b7e12e5012a339",
-      "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
-      "date": "2026-09-21"
+      "sha256": "6dddf0d6a1d7215c517751967f7a6daf44491c110736714e5817ed6a5c16d370",
+      "notes": "Fixes keys that could get stuck: switching into Gamepad mode while holding a key, remapping a held key, and turning XInput off mid-game.",
+      "date": "2026-09-23"
     },
     "penumbra-3row": {
-      "fwVersion": 2,
+      "fwVersion": 3,
       "protocol": 1,
       "uf2": "https://github.com/multifex/mltfex_firmware/raw/main/penumbra-3row.uf2",
-      "sha256": "1bb3f8e8a97e404a344d827c549cbf86f3a3d14474dadbd3dcb5275105f63674",
-      "notes": "Single-key (top-left) unlock for macro writes and Key Tester Mode, was a two-key hold.",
-      "date": "2026-09-21"
+      "sha256": "653964dbf2e4b8ae4313db3e8702aba97d3dd14b384e2ec80d8c7a49a8c2d6c1",
+      "notes": "Fixes keys that could get stuck: switching into Gamepad mode while holding a key, remapping a held key, and turning XInput off mid-game.",
+      "date": "2026-09-23"
     }
   }
 }
